@@ -1,5 +1,5 @@
 
-const API = 'https://job-application-tracker-xxxx.onrender.com/api/jobs';
+const API = 'https://job-application-tracker-gp6r.onrender.com/api/jobs';
 const list = document.getElementById('job-list');
 const msg = document.getElementById('message');
 
